@@ -4,7 +4,7 @@ Built using the MERN stack, it helps users find local businesses and services in
 
 2. JCI Nagpur (React)
 A membership-based NGO platform for JCI Nagpur, part of Junior Chamber International.
-Developed with MERN , it provides a digital presence to support leadership development, events, and community activities for young men and women in India.
+It provides a digital presence to support leadership development, events, and community activities for young men and women in India.
 
 3. Cars Nagpur (MERN)
 A platform for car dealers, sellers, and buyers in Nagpur.
